@@ -1,4 +1,4 @@
-<h2 align = "center">Nexonic Remastered</h2>
+<h2 align = "center">Nexonic Remastered - Open Source</h2>
 <p>Welcome to the official release of the Nexonic Roleplay Open.MP gamemode. This project has been designed and developed by Navin (acecultz) to serve as a modern, reliable, and extensible roleplay foundation for Open.MP servers. The codebase focuses on clean architecture, maintainability, stability, and performance while remaining easy to customize and expand for different roleplay communities.
   
 This repository is the only official source for the Nexonic Roleplay gamemode. It is published to provide the community with an authentic, up-to-date version of the project and to ensure transparency in its development.
