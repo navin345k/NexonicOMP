@@ -4,5 +4,3 @@
 This repository is the only official source for the Nexonic Roleplay gamemode. It is published to provide the community with an authentic, up-to-date version of the project and to ensure transparency in its development.
 
 Any unofficial copies, modified redistributions, or leaked versions should not be considered legitimate. We appreciate everyone who supports the project and hope this release helps developers build, learn, and create better Open.MP roleplay experiences.</p>
-
-https://img.shields.io/badge/Author-Ace%20Dev-00ff7f?style=for-the-badge&labelColor=000000
