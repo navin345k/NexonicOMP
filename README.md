@@ -19,3 +19,7 @@ Any unofficial copies, modified redistributions, or leaked versions should not b
   - Discord-Connector
   - Weapon-Config
   ```
+
+## Performance
+
+- **The script is intermediately optimized, capable of supporting up to 70 players concurrently on a mid-range VPS.**
