@@ -25,5 +25,3 @@ Any unofficial copies, modified redistributions, or leaked versions should not b
 - **The script is intermediately optimized, capable of supporting up to 70 players concurrently on a mid-range VPS.**
 
 ---
-
-https://img.shields.io/badge/Author-Ace%20Dev-00ff7f?style=for-the-badge&labelColor=000000
