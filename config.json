@@ -61,7 +61,7 @@
         "use_prefix": true,
         "use_timestamp": true
     },
-    "logo": "", // server logo link
+    "logo": "", // server logo (optional)
     "max_bots": 30,
     "max_players": 100,
     "name": "", // server name
