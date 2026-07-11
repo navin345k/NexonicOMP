@@ -14,7 +14,7 @@ Any unofficial copies, modified redistributions, or leaked versions should not b
 - **Database**: MySQL
 - **Libraries**:
 ```
-  - `open.mp` standard library
+  - open.mp standard library
   - YSI (for core utilities)
   - Streamer
   - MySQL
