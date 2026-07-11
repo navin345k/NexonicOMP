@@ -8,7 +8,7 @@ Any unofficial copies, modified redistributions, or leaked versions should not b
 ## Technologies Used
 
  **Game Mode Engine**: [Open.MP](https://open.mp) (recommended for stability and performance)
-- **Script Language**: PAWN (v3.10.10)
+- **Script Language**: PAWN (v3.10.11)
 - **Database**: MySQL
 - **Libraries**:
 ```
