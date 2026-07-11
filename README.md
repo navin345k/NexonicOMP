@@ -6,3 +6,18 @@ This repository is the only official source for the Nexonic Roleplay gamemode. I
 Any unofficial copies, modified redistributions, or leaked versions should not be considered legitimate. We appreciate everyone who supports the project and hope this release helps developers build, learn, and create better Open.MP roleplay experiences.</p>
 
 ---
+
+## Technologies Used
+
+ **Game Mode Engine**: [Open.MP](https://open.mp) (recommended for stability and performance)
+- **Script Language**: PAWN (v3.10.10)
+- **Database**: MySQL
+- **Libraries**:
+```
+- `open.mp` standard library
+  - YSI (for core utilities)
+  - Streamer
+  - MySQL
+  - Discord-Connector
+  - Weapon-Config
+  ```
